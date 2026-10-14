@@ -9,7 +9,7 @@ MS in Information Technology Management at UT Dallas. Working toward Incident Re
 
 My work in Linux and production infrastructure taught me how systems run and how they fail. I now want to use that experience in a Security Operations Center (SOC) as a Tier 1 Analyst, and grow toward a career in Incident Response.
 
-## Skills
+<!-- ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -40,7 +40,10 @@ My work in Linux and production infrastructure taught me how systems run and how
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+</div> 
+
+## Projects
+- Blank -->
 
 ## Certifications
 <div>
@@ -49,5 +52,4 @@ My work in Linux and production infrastructure taught me how systems run and how
 <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-## Projects
-- Test
+
